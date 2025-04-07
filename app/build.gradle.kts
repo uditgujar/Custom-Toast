@@ -48,6 +48,7 @@
         androidTestImplementation(libs.androidx.espresso.core)
 
         implementation(project(":customtoast"))
+        implementation("com.github.uditgujar:Custom-Toast:v1.0")
 
 
     }
